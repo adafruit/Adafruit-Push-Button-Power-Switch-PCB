@@ -1,4 +1,4 @@
-## Adafruit Push Button Power Switc PCB
+## Adafruit Push Button Power Switch PCB
 <a href="http://www.adafruit.com/products/1400"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
